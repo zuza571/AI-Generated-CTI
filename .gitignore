@@ -1,0 +1,9 @@
+huggingface_token.txt
+aptnotesvenv/*
+venv/*
+APTnotes/*
+aptnotes_dataset.jsonl
+unsloth_compiled_cache/*
+Meta-llama-3.1-8B/*
+llama_results/*
+llama_finetuned/*
