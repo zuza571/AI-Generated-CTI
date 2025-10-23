@@ -43,5 +43,5 @@ The evaluation results, presented in plots, can be found in the [`survey/`](./su
 
 The dataset used for TinyLlama fine-tuning includes multiple sources:
 
-- **APTnotes (2008–2024)** – a collection of Advanced Persistent Threat (APT) reports from the [APTnotes repository](https://github.com/aptnotes/data/), downloaded using tools from [APTnotes Tools](https://github.com/aptnotes/tools) and collected in the local `APTnotes` directory. 
-- Additional CTI datasets from the [Hugging Face Datasets platform](https://huggingface.co/datasets).
+- APTnotes (2008–2024) – a collection of Advanced Persistent Threat (APT) reports from the [APTnotes repository](https://github.com/aptnotes/data/), downloaded using tools from [APTnotes Tools](https://github.com/aptnotes/tools) and collected in the local `APTnotes` directory. 
+- Additional CTI datasets from the [Hugging Face platform](https://huggingface.co/datasets).
